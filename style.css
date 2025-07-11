@@ -38,7 +38,7 @@
 .home-page-image{
     height: 250px;
     width: 250px;
-    background-image: url(image/protfolioimage.jpeg);
+    background-image: url(protfolioimage.jpeg);
     
     background-position: center;
     background-size: cover;
